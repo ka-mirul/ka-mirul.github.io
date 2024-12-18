@@ -1,6 +1,5 @@
-title: kamirul K.
-# logo: assets/img/headshot_circle.png
-# Description text below the image
-
-# show_downloads: true
+title: Kamirul K.
+logo: https://avatars.githubusercontent.com/u/<user-id>?v=4
+description: Welcome to my GitHub Pages site. Here's a little about me.
+show_downloads: true
 theme: jekyll-theme-minimal
