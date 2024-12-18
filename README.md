@@ -1,5 +1,5 @@
 # Engineer
-### _Current Position - PhD Student - VI-Lab University of Brirstol 
+### _Current Position - PhD Student at VI-Lab - University of Brirstol_
 
 #### Summary: 
 Ph.D. in Electrical and Electronic Engineering with research experience in computer vision and deep-learning. 
