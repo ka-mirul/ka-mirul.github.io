@@ -6,13 +6,20 @@ Ph.D. in Electrical and Electronic Engineering with research experience in compu
 Passionate about research in object detection and signal processing for remote sensing applications, particularly involving optical and Synthetic Aperture Radar (SAR) images 
 
 ## 🧪 Publication
-#### Statistic
+#### Statistics
 - Total Documents: **21** 
 - Total Citations: **102**
 - H-index: **6**
   
 #### Research Profile
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57206663750" target="_blank">Scopus</a> - <a href="https://scholar.google.com/citations?user=F3n4oWcAAAAJ&hl=en" target="_blank">Google Scholar</a> - <a href="https://orcid.org/0000-0002-1474-1139" target="_blank">ORCID</a> - <a href="https://www.researchgate.net/profile/Kamirul-Kamirul" target="_blank">ResearchGate</a>
+
+#### Featured
+- <a href="https://arxiv.org/abs/2409.07973/" target="_blank">Sparse R-CNN OBB: Ship Target Detection in SAR Images Based on Oriented Sparse Proposals</a> in arXiv.
+- <a href="https://https://arxiv.org/abs/2402.04066/" target="_blank">On the Modelling of Ship Wakes in S-Band SAR Images and an Application to Ship Identification</a> in arXiv.
+- <a href="https://ieeexplore.ieee.org/abstract/document/9281035/" target="_blank">Automatic Ship Recognition Chain on Satellite Multispectral Imagery</a> in IEEE Access.
+- <a href="https://https://www.mdpi.com/2076-3417/9/16/3319/" target="_blank">The Impact of Space-Based AIS Antenna Orientation on In-Orbit AIS Detection Performance</a> in MDPI Applied Sciences.
+
 
 ## 💻 Technical Skills:
 - Programming Languages: _Proficient in Python and MATLAB._
