@@ -1,4 +1,4 @@
-# Profile
+# Engineer
 ### _Current Position - PhD Student at VI-Lab - University of Brirstol_
 
 #### Summary: 
