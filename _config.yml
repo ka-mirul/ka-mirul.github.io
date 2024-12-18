@@ -1,5 +1,49 @@
-title: Kamirul K.
-logo: /FIGURES/profile_photo.jpg
-description: Welcome to my GitHub Page.
-show_downloads: true
-theme: jekyll-theme-minimal
+# title: Kamirul K.
+# logo: /FIGURES/profile_photo.jpg
+# description: Welcome to my GitHub Page.
+# show_downloads: true
+# theme: jekyll-theme-minimal
+
+
+# Site settings
+title: "Your Site Title"
+description: "A brief description of your site"
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://yourusername.github.io" # The base hostname & protocol for your site
+theme: jekyll-theme-minimal # Using the Minimal Jekyll theme
+
+# Author information
+author:
+  name: "Your Name"
+  photo: "/assets/images/profile_photo.jpg" # Path to the profile photo
+
+# Social links (optional)
+social_links:
+  - name: GitHub
+    url: https://github.com/yourusername
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/yourusername
+  - name: Twitter
+    url: https://twitter.com/yourusername
+
+# Plugins (optional, useful for GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Custom variables (optional)
+custom_message: "Welcome to my personal site!"
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Defaults (optional, for metadata)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
