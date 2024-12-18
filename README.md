@@ -6,7 +6,7 @@ Ph.D. in Plant Breeding and Genetics with 6 years of research experience in gene
 #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Total Citations: **102** <a href="https://scholar.google.com/citations?user=F3n4oWcAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 #### Technical Skills:
 
