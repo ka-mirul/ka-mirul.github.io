@@ -1,7 +1,14 @@
 title: Kamirul K.
 # logo: /FIGURES/profile_photo.jpg
 logo: "/assets/images/profile_photo.jpg" # Path to your logo
-description: Welcome to my GitHub Page.
+description: |
+  Welcome to my GitHub Page.
+  ## 📞 Contact
+  | **Name**      | Kamirul K. |
+  |---------------|-------------------------|
+  | **E-mail**    | [kamirul.apr@gmail.com](mailto:kamirul.apr@gmail.com) |
+  | **LinkedIn**  | [Visit Page](https://www.linkedin.com/in/kamirul/) |
+
 # show_downloads: true
 theme: jekyll-theme-minimal
 
