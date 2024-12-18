@@ -6,7 +6,10 @@ Ph.D. in Electrical and Electronic Engineering with research experience in compu
 Passionate about research in object detection and signal processing for remote sensing applications, particularly involving optical and Synthetic Aperture Radar (SAR) images 
 
 #### Publication Statistics:
-Total Citations: **102** <a href="https://scholar.google.com/citations?user=F3n4oWcAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Total Documents: **21** 
+Total Citations: **102**
+H-index: **6**
+Research Profiles: <a href="https://www.scopus.com/authid/detail.uri?authorId=57206663750" target="_blank">Scopus</a> | <a href="https://scholar.google.com/citations?user=F3n4oWcAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0002-1474-1139" target="_blank">ORCID</a> | <a href="https://www.researchgate.net/profile/Kamirul-Kamirul" target="_blank">ResearchGate</a>
 
 #### Technical Skills:
 - Programming Languages: _Proficient in Python and MATLAB._
@@ -15,7 +18,7 @@ Total Citations: **102** <a href="https://scholar.google.com/citations?user=F3n4
 
 ## 🎓 Education
 - **Ph.D.**, Electrical and Electronic Engineering | <a href="bristol.ac.uk/" target="_blank">University of Bristol</a> (_SEP 2023 - Present_)		  		
-- **M.Sc.**, Physics	| <a href="https://untan.ac.id/" target="_blank">Tanjungpura University</a> (_SEP 2015 - JUL 2017_)	 			        		
+- **M.Sc.**, Physics | <a href="https://untan.ac.id/" target="_blank">Tanjungpura University</a> (_SEP 2015 - JUL 2017_)	 			        		
 - **B.Sc.**, Physics | <a href="https://itb.ac.id/" target="_blank">Bandung Institute of Technology</a> (_SEP 2009 - OCT 2014_)
 
 ## 🎖️ AWARD
