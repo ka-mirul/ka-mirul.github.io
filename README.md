@@ -9,8 +9,8 @@ Ph.D. in Electrical and Electronic Engineering with research experience in compu
 Passionate about research in object detection and signal processing for remote sensing applications, particularly involving optical and Synthetic Aperture Radar (SAR) images 
 
 ## 🧪 PUBLICATIONS
-#### Statistics:
-<span style="color:blue">_Last update Dec 19, 2024_</span>
+#### Statistics (<span style="color:blue">_Last update on Dec 19, 2024_</span>):
+
 - Total Documents: **21** 
 - Total Citations: **102**
 - H-index: **6**
