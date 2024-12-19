@@ -1,4 +1,7 @@
-# Engineer
+# Kamirul K.
+📧 <a href="mailto:kamirul.apr@gmail.com">kamirul.apr@gmail.com</a> | 
+🌐 <a href="https://www.linkedin.com/in/kamirul/" target="_blank">LinkedIn</a> 
+
 ### _Current Position - PhD Student at VI-Lab - University of Brirstol_
 
 #### Summary: 
@@ -53,7 +56,3 @@ Passionate about research in object detection and signal processing for remote s
 - International Conference on <a href="https://ieeexplore.ieee.org/xpl/conhome/8897536/proceeding/" target="_blank">"2019 ICARES: IEEE International Conference on Aerospace Electronics and Remote Sensing Technology"</a> at Yogyakarta, Indonesia. (_OCT_2019 - As presenter_)
 - International Conference on <a href="https://ieeexplore.ieee.org/xpl/conhome/8525355/proceeding/" target="_blank">"2018 ICARES: IEEE International Conference on Aerospace Electronics and Remote Sensing Technology"</a> at Bali, Indonesia. (_SEP 2018 - As presenter_)
 
-## 📞 CONTACT
-| **Name**   | Kamirul K. | 
-| **E-mail**   | <a href="mailto:kamirul.apr@gmail.com">kamirul.apr@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/kamirul/" target="_blank">Visit Page</a> | 
