@@ -41,7 +41,7 @@ Passionate about research in object detection and signal processing for remote s
 - Publication award by IEEE - Indonesia Section. (_MAY 2021_)
 - Master Scholarship by <a href="https://lpdp.kemenkeu.go.id/" target="_blank">"Lembaga Pengelola Dana Pendidikan (LPDP), Ministry of Finance of Republic of Indonesia"</a>. (_SEP 2015_)
 
-## 💼 WORK EXPEREINCES
+## 💼 WORK EXPERIENCES
 - Satellite Engineer at <a href="brin.go.id" target="_blank">National Research and Innovation Agency</a> (_JAN 2018 - Present_)
 - Radar System Engineer at <a href="bristol.ac.uk" target="_blank">University of Bristol</a> (_FEB 2024 - MAR 2024_)
 
