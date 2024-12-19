@@ -32,8 +32,8 @@ Passionate about research in object detection and signal processing for remote s
 
 ## 🎓 EDUCATION
 - **Ph.D.**, Electrical and Electronic Engineering | <a href="https://bristol.ac.uk/" target="_blank">University of Bristol</a> (_SEP 2023 - Present_)		  		
-- **M.Sc.**, Physics | <a href="https://untan.ac.id/" target="_blank">Tanjungpura University</a> (_SEP 2015 - JUL 2017_)	 			        		
-- **B.Sc.**, Physics | <a href="https://itb.ac.id/" target="_blank">Bandung Institute of Technology</a> (_SEP 2009 - OCT 2014_)
+- **M.Sc.**, Physics | <a href="https://itb.ac.id/" target="_blank">Bandung Institute of Technology</a> (_SEP 2015 - JUL 2017_)	 			        		
+- **B.Sc.**, Physics | <a href="https://untan.ac.id/" target="_blank">Tanjungpura University</a> (_SEP 2009 - OCT 2014_)
 
 ## 🎖️ AWARDS
 - <a href="https://www.bristol.ac.uk/education/news/2024/innovative-academics-selected-for-new-early-career-enterprise-fellowships.html" target="_blank">"Early Career Enterprise Fellowships (ECEF)"</a> by University of Bristol. (_FEB 2024_)
@@ -43,8 +43,7 @@ Passionate about research in object detection and signal processing for remote s
 
 ## 💼 WORK EXPERIENCES
 - Satellite Engineer at <a href="https://brin.go.id/" target="_blank">National Research and Innovation Agency</a> (_JAN 2018 - Present_)
-- Radar System Engineer at <a href="https://bristol.ac.uk/" target="_blank">University of Bristol</a> (_FEB 2024 - MAR 2024_)
-
+  
 ## 🎤 CONFERENCES AND WORKSHOPS
 - Summer School <a href="https://ssrm.mik.uni-pannon.hu/" target="_blank">"EURASIP - IEEE SPS Summer School on Remote Sensing and Microscopy Image Processing"</a> at Veszperm, Hungary. (_JUL 2024 - As participant_)
 - International Conference <a href="https://www.2024.ieeeigarss.org/" target="_blank">"2024 IGARSS: IEEE International Geoscience and Remote Sensing Symposium"</a> at Athens, Greece. (_JUN 2024 - As presenter and session chair_)
