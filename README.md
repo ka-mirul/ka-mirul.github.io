@@ -20,7 +20,7 @@ Passionate about research in object detection and signal processing for remote s
 
 #### Featured Publications:
 - <a href="https://arxiv.org/abs/2409.07973/" target="_blank">Sparse R-CNN OBB: Ship Target Detection in SAR Images Based on Oriented Sparse Proposals</a> in arXiv.
-- <a href="https://https://ieeexplore.ieee.org/document/10642130/" target="_blank">On the Modelling of Ship Wakes in S-Band SAR Images and an Application to Ship Identification</a> in IEEE IGARSS 2024.
+- <a href="https://ieeexplore.ieee.org/document/10642130/" target="_blank">On the Modelling of Ship Wakes in S-Band SAR Images and an Application to Ship Identification</a> in IEEE IGARSS 2024.
 - <a href="https://ieeexplore.ieee.org/abstract/document/9281035/" target="_blank">Automatic Ship Recognition Chain on Satellite Multispectral Imagery</a> in IEEE Access.
 - <a href="https://https://www.mdpi.com/2076-3417/9/16/3319/" target="_blank">The Impact of Space-Based AIS Antenna Orientation on In-Orbit AIS Detection Performance</a> in MDPI Applied Sciences.
 
