@@ -42,8 +42,8 @@ Passionate about research in object detection and signal processing for remote s
 - Master Scholarship by <a href="https://lpdp.kemenkeu.go.id/" target="_blank">"Lembaga Pengelola Dana Pendidikan (LPDP), Ministry of Finance of Republic of Indonesia"</a>. (_SEP 2015_)
 
 ## 💼 WORK EXPERIENCES
-- Satellite Engineer at <a href="brin.go.id" target="_blank">National Research and Innovation Agency</a> (_JAN 2018 - Present_)
-- Radar System Engineer at <a href="bristol.ac.uk" target="_blank">University of Bristol</a> (_FEB 2024 - MAR 2024_)
+- Satellite Engineer at <a href="https://brin.go.id/" target="_blank">National Research and Innovation Agency</a> (_JAN 2018 - Present_)
+- Radar System Engineer at <a href="https://bristol.ac.uk/" target="_blank">University of Bristol</a> (_FEB 2024 - MAR 2024_)
 
 ## 🎤 CONFERENCES AND WORKSHOPS
 - Summer School <a href="https://ssrm.mik.uni-pannon.hu/" target="_blank">"EURASIP - IEEE SPS Summer School on Remote Sensing and Microscopy Image Processing"</a> at Veszperm, Hungary. (_JUL 2024 - As participant_)
