@@ -31,7 +31,7 @@ Passionate about research in object detection and signal processing for remote s
 - Deep-Learning: _Diffusion model for SAR image generation._
 
 ## 🎓 EDUCATION
-- **Ph.D.**, Electrical and Electronic Engineering | <a href="bristol.ac.uk/" target="_blank">University of Bristol</a> (_SEP 2023 - Present_)		  		
+- **Ph.D.**, Electrical and Electronic Engineering | <a href="https://bristol.ac.uk/" target="_blank">University of Bristol</a> (_SEP 2023 - Present_)		  		
 - **M.Sc.**, Physics | <a href="https://untan.ac.id/" target="_blank">Tanjungpura University</a> (_SEP 2015 - JUL 2017_)	 			        		
 - **B.Sc.**, Physics | <a href="https://itb.ac.id/" target="_blank">Bandung Institute of Technology</a> (_SEP 2009 - OCT 2014_)
 
