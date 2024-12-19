@@ -7,8 +7,7 @@ Passionate about research in object detection and signal processing for remote s
 
 ## 🧪 PUBLICATIONS
 #### Statistics:
-
-_Last update Dec 19, 2024_
+<span style="color:blue">_Last update Dec 19, 2024_</span>
 - Total Documents: **21** 
 - Total Citations: **102**
 - H-index: **6**
